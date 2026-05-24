@@ -2,7 +2,7 @@
 
 A minimal Next.js 14 App Router starter. SSR + API routes. Deploy in one click.
 
-[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=pandastack-io/nextjs-starter&type=container&port=3000)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=pandastack-io/nextjs-starter&type=container&port=3000&startCmd=npm+start)
 
 ## Deploy Settings
 
